@@ -1,0 +1,5 @@
+com\samay\jobtracker\model\Job.class
+com\samay\jobtracker\service\JobService.class
+com\samay\jobtracker\repository\JobRepository.class
+com\samay\jobtracker\controller\JobController.class
+com\samay\jobtracker\JobTrackerApplication.class
